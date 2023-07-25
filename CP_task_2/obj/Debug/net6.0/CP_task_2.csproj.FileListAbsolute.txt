@@ -1,0 +1,15 @@
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\bin\Debug\net6.0\CP_task_2.exe
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\bin\Debug\net6.0\CP_task_2.deps.json
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\bin\Debug\net6.0\CP_task_2.runtimeconfig.json
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\bin\Debug\net6.0\CP_task_2.dll
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\bin\Debug\net6.0\CP_task_2.pdb
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.csproj.AssemblyReference.cache
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.AssemblyInfoInputs.cache
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.AssemblyInfo.cs
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.csproj.CoreCompileInputs.cache
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.dll
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\refint\CP_task_2.dll
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.pdb
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\CP_task_2.genruntimeconfig.cache
+C:\IT (GeekBrains)\C#\HomeWork_8_(StarostinDA)\CP_task_2\obj\Debug\net6.0\ref\CP_task_2.dll
